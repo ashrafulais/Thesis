@@ -43,8 +43,8 @@ Chapter 01: Introduction
 Chapter 2: Existing Systems
 
 2.1, 2.2, 2.6 > Ador
-2.3, 2.4, 2.5 > tanvir
-2.7 > Ashraful
+2.3, 2.5 > tanvir
+2.7, 2.4 > Ashraful
 ----------------------------------------------------------------------
 Chapter 3: Proposed Model
 
@@ -68,7 +68,7 @@ Accuracy score showing, plotting metrices and accuracy diagrams
 আমাদের এই স্টাডি কি ফলাফল আনলো । ( ভালোভাবে প্রেডিকশান করার সিস্টেম )
 
 ----------------------------------------------------------------------
-> চাপ্টার ৫ - Conclusion (5.1 - Ador) (5.2 , 5.3 - Tanvir)
+> চাপ্টার ৫ - Conclusion (5.1 - Ador) (5.2 - Ashraful) (5.3 - Tanvir)
 
 5.1 - প্রেডিকশান নিয়া কিছু কথাবার্তা থাকবে দুই লাইন । পরে KNN দিয়ে আমরা কাজ করসি , বিভিন্ন জিনিস এক্সপ্লোর করসি (data normalization, , data scaling,  missing value handling etc.)
 knn নিয়ে একটা প্যাপার থেকে আমাদের কাজের সাথে রিলিভেন্ট কোনো লাইন কপি করা । সাথে প্যাপার এর রেফেরেন্স নাম্বার দিয়ে দেওয়া । 
